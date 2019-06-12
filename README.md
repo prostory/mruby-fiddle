@@ -1,2 +1,2 @@
 # mruby-fiddle
-从ruby中移植fiddle库到mruby
+ffi binding for mruby, transform fiddle from ruby
